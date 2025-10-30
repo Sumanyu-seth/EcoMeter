@@ -31,5 +31,5 @@ It’s a small, interactive project for beginners in **Python GUI development** 
 
 ---
 
-## 📊 Formula Used
+
 
